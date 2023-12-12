@@ -1,0 +1,14 @@
+.fab {
+  position: absolute;
+  top: 16px;
+  left: 16px;
+  border: 1px solid white;
+  border-radius: 100%;
+
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 32px;
+  width: 32px;
+}
